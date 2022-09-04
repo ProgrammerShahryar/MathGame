@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="name">Player Name</string>
+    <string name="name2">Enter your name...</string>
+    <string name="go">GO!</string>
+    <string name="hint">Enter your name....</string>
+    <string name="zero">7 + 9</string>
+    <string name="one">16</string>
+    <string name="four">22</string>
+    <string name="five">32</string>
+    <string name="six">18</string>
+    <string name="close">close</string>
+</resources>
